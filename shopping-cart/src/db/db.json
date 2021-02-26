@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "_id": "1",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "2",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "3",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "4",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "5",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "6",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "7",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "8",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "9",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    },
+    {
+      "_id": "10",
+      "name": "Water Melon",
+      "price": 300,
+      "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/water-melon.jpg",
+      "category": "fruit"
+    }
+  ]
+}
